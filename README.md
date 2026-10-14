@@ -1,2 +1,2 @@
 # cadcraft-releases
-Mak CAD — downloads (installers only)
+My CAD — downloads (installers only)
